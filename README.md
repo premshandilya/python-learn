@@ -1,2 +1,2 @@
 # python-learn
-# python-learn This repository is dedicated for my practice codes during the learnig process.
+This repository is dedicated for my practice codes during the learnig process.
